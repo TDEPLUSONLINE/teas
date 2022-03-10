@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:32,Bein Sport Premium 1 HD
+#EXTVLCOPT:network-caching=1000
+http://mat4k.com:8080/live/3143631718254908/2598854265/28273.m3u8
+#EXTINF:32,Bein Sport Premium 2 HD
+#EXTVLCOPT:network-caching=1000
+http://mat4k.com:8080/live/3143631718254908/2598854265/28272.m3u8
+#EXTINF:32,Bein Sport Premium 3 HD
+#EXTVLCOPT:network-caching=1000
+http://mat4k.com:8080/live/3143631718254908/2598854265/28271.m3u8
+#EXTINF:32,Bein Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://mat4k.com:8080/live/3143631718254908/2598854265/28270.m3u8
+#EXTINF:32,Bein Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://mat4k.com:8080/live/3143631718254908/2598854265/28269.m3u8
+#EXTINF:32,Bein Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://mat4k.com:8080/live/3143631718254908/2598854265/28268.m3u8
+#EXTINF:32,Bein Sport 4 HD
+#EXTVLCOPT:network-caching=1000
+http://mat4k.com:8080/live/3143631718254908/2598854265/28267.m3u8
+#EXTINF:32,Bein Sport 5 HD
+#EXTVLCOPT:network-caching=1000
+http://mat4k.com:8080/live/3143631718254908/2598854265/28266.m3u8
+#EXTINF:32,Bein Sport 6 HD
+#EXTVLCOPT:network-caching=1000
+http://mat4k.com:8080/live/3143631718254908/2598854265/28265.m3u8
+#EXTINF:32,Bein Sport 7 HD
+#EXTVLCOPT:network-caching=1000
+http://mat4k.com:8080/live/3143631718254908/2598854265/28264.m3u8
